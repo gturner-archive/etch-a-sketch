@@ -1,0 +1,22 @@
+.container {
+  width: 900px;
+  height: 900px;
+  margin: 0 auto;
+}
+
+#reset {
+  padding: 5px 10px;
+  margin: 10px auto;
+  display: block;
+}
+
+.pixel {
+  height: 56.25px;
+  width: 56.25px;
+  background: black;
+  float: left;
+}
+
+.hovered {
+  background: steelblue;
+}
